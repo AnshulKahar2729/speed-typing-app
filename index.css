@@ -1,0 +1,28 @@
+/* homepage */
+body{
+    background-color: #1E0555;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    color: #f4d300;
+    background-color: black;
+    padding: 0.5rem;
+    border: 2px solid #f4d300;
+    width: auto;
+    margin-bottom: 2rem;
+}
+
+.button{
+    color: red;
+    background-color: #fff;
+    padding: 0.5rem;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+    border: 2px solid red;
+}
