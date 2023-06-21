@@ -64,3 +64,9 @@ body, .quote-input{
     text-decoration: underline;
 }
 
+@media (max-width: 768px){
+    .container{
+        max-width: 90%;
+        
+    }
+}
